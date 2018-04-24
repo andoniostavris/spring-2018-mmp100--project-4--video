@@ -27,7 +27,7 @@ You, of course, own the copyright to your work. Thus, it’s up to you whether y
 7. Edit this `README.md` file, according to the **Submission** directions below, by adding a link to your project and including a description.
 
 ### Link
-(/Users/andonios.tavris/Documents/AndoniosTavris/spring2018/Adventuretime/)
+mmp.bmcc.cuny.edu/andonios.tavris/spring-2018/MMP-100/project-4
 
 ### Description
 A illusion to look illegal all this was done with permission added music produced by a mutual friend. This guys are well known to me and are professional paint artist.
